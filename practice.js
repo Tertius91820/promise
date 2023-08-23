@@ -5,3 +5,7 @@ let stocks = {
   holder : ["cone", "cup", "stick"],
   toppings : ["chocolate", "peanuts"],
 }
+
+let order = () =>{};
+
+let production = () =>{};
